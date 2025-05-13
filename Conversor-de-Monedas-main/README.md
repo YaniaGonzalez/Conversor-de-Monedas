@@ -1,4 +1,4 @@
-Amigo Secreto - Challenge
+Conversor de Monedas - Challenge
 Este proyecto es un conversor de monedas desarrollado en Java que permite convertir de pesos Colombianos a diferentes monedas.
 
 #Características
